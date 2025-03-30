@@ -11,4 +11,4 @@ Make sure to open ALL of the images onto Visual Studio Code
 
 Follow the video I have made for instructions as to how to play.
 
-Video Link: https://www.loom.com/share/8ebf27ff42c84db28a70f2bef860711c?sid=87334aaf-69f5-4520-8fee-d4564de3e03c
+Video Link: https://www.loom.com/share/4fad522194c34d7cbc0b7dd3d2da1c93?sid=eeaa580e-4ef0-429b-bff2-caa3b31d98aa
